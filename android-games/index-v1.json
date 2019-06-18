@@ -1,0 +1,722 @@
+{
+  "repo": {
+    "timestamp": 1502257810365,
+    "version": 21,
+    "name": "Android Games",
+    "icon": "games.png",
+    "address": "http://keepsummersafe.x10host.com/android-games/",
+    "description": "Some cool android games to enjoy in Oculus TV"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Hearthstone Heroes of Warcraft",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "this.png",
+      "packageName": "com.blizzard.wtcg.hearthstone",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Solitaire",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "ecvOT4Z.png",
+      "packageName": "com.mobilityware.solitaire",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Racing"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Hill Climb Racing 2",
+      "sourceCode": "",
+      "summary": "New cup: Downhill Trials New looks: Cowboy Advanced team search Various bug fixes",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "7h6Yi22.png",
+      "packageName": "com.fingersoft.hcr2",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Anime"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "SWORD ART ONLINE: Memory Defrag",
+      "sourceCode": "",
+      "summary": "Brave the virtual world with the heroes of Sword Art Online in one of Japan’s most popular anime role playing games, the brand-new action game.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "IaEd1qZ.jpg",
+      "packageName": "com.bandainamcoent.saomdna",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Sport"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "World Cricket Championship 2",
+      "sourceCode": "",
+      "summary": "For new features, look for in-product education & notifications sharing the feature and how to use it!",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "7U2Iaw6.png",
+      "packageName": "com.nextwave.wcc2",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Fantasy"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Clash of Kings",
+      "sourceCode": "",
+      "summary": "Optimized Speedup items Added the function: Finish Now, into the Ancestral Spirit and the process of forging equipment Added notice of Duel Protection Countdown Shortened the animation of popping rewards in the Traveling Merchant",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "0Fxz8NZ.png",
+      "packageName": "com.hcg.cok.gp",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Action"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Assassin's Creed Rebellion",
+      "sourceCode": "",
+      "summary": "Transport your Heroes to Granada on a quest for revenge in the all-new Helix Rift Event, Kinslayer! Discover 5 new missions Explore local slums, a Templar manor, and the legendary Alhambra Recruit 2 new Heroes: Najma, the Granadan Avenger and Muza, the Moorish Warrior!",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "fNnBnx0.png",
+      "packageName": "com.ubisoft.accovenant",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Action"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Sonic Dash",
+      "sourceCode": "",
+      "summary": "It's time to go fast all over again with improved stability and bug fixes!",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "VoTT6XM.png",
+      "packageName": "com.sega.sonicdash",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Adventure"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Pokemon GO",
+      "sourceCode": "",
+      "summary": "Bug fixes, no other description but im sure you get it",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "wzGft9d.png",
+      "packageName": "com.nianticlabs.pokemongo",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Adventure"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Walking Dead: Road to Survival",
+      "sourceCode": "",
+      "summary": "Introducing, Walker Hordes! A brand new feature that puts you in control of the walking dead!",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "eZQJDjo.png",
+      "packageName": "com.scopely.headshot",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Racing"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Fruit Ninja",
+      "sourceCode": "",
+      "summary": "Optimisation tweaks and minor enhancements.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "xiosoPm.png",
+      "packageName": "com.halfbrick.fruitninjafree",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Fantasy"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Game of Thrones: Conquest™",
+      "sourceCode": "",
+      "summary": "The dead walk. The horns have sounded. Prepare for the Battle of Winterfell! Event monsters will soon be spawning across Westeros! Using the wisdom of the maesters, craft ancient relics to repel the dead.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "CMX7X14.png",
+      "packageName": "com.wb.goog.got.conquest",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Fantasy"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Star Wars™: Commander",
+      "sourceCode": "",
+      "summary": "Star wars, what else?",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "bZWOrCg.png",
+      "packageName": "com.lucasarts.starts_goo",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Fantasy"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Dolphin Emulator",
+      "sourceCode": "",
+      "summary": "Dolphin Emulator 5.0-10121 for Android",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "27U9sx9.png",
+      "packageName": "org.dolphinemu.dolphinemu",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Fantasy"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Angry Birds Match",
+      "sourceCode": "",
+      "summary": "Angry Birds Match 2.8.0 for Android",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "HchC5yT.png",
+      "packageName": "com.rovio.abmatch3",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Fantasy"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "MARVEL Spider-Man Unlimited",
+      "sourceCode": "",
+      "summary": "NEW STORY Halt the Spider-Queen's return before she ushers in a reign of terror! NEW SPIDEYS KNULL, the Lord of the Abyss, is back to turn the tide of battle! SPIDER-GWEN (ERIN HASKO) is ready to steal the spotlight.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "U3moDh7.png",
+      "packageName": "com.gameloft.android.ANMP.GloftSIHM",
+      "lastUpdated": 1502257746030
+    }
+  ],
+  "packages": {
+    "com.gameloft.android.ANMP.GloftSIHM": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://s-static-assets.androidapks.com/sdata/5c2e5045ee769957ad8b4a2902fde12a/com.gameloft.android.ANMP.GloftSIHM_v4.6.0c-46022_Android-4.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.gameloft.android.ANMP.GloftSIHM",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.mobilityware.solitaire": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/507878035bdfa77eaa4b2ba3ba5f8a6c/com.mobilityware.solitaire_v6.3.0.3302-3302_Android-6.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.mobilityware.solitaire",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.rovio.abmatch3": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/522c45d9b24f120c2da3a2cff513c7e0/com.rovio.abmatch3_v2.8.0-28012_Android-5.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.rovio.abmatch3",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "org.dolphinemu.dolphinemu": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/7fe7c2becf7dd3c4a38ee6634b9e1b59/org.dolphinemu.dolphinemu_v5.0-10121-15979_Android-5.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "org.dolphinemu.dolphinemu",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.lucasarts.starts_goo": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/0ab6c6c3ee6fdc892e2a5c51e6682119/com.lucasarts.starts_goo_v7.5.0.138-705000138_Android-4.4.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.lucasarts.starts_goo",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.wb.goog.got.conquest": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/aca84e58faa677e1995bca0733fa780f/com.wb.goog.got.conquest_v2.4.239324-489_Android-6.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.wb.goog.got.conquest",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.halfbrick.fruitninjafree": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/eb83a2c32e8270c8a37906fc2e2d83f2/com.halfbrick.fruitninjafree_v2.7.5-50877101_Android-4.1.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.halfbrick.fruitninjafree",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.scopely.headshot": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/a5713f4525cf0dd378b10ec650bcf9c2/com.scopely.headshot_v19.1.0.74921-274921410_Android-4.0.3.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.scopely.headshot",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.nianticlabs.pokemongo": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/8c5622504762bd6fbe47a48b3f75eb1f/com.nianticlabs.pokemongo_v0.143.1-2019051301_Android-4.4.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.nianticlabs.pokemongo",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.sega.sonicdash": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/53b3f80f3561c575a93d08bc0f121e12/com.sega.sonicdash_v4.2.1-1711912272_Android-4.1.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.sega.sonicdash",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.fingersoft.hcr2": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/620b20807e632761bf4d76c1c8147f7f/com.fingersoft.hcr2_v1.26.2-422_Android-4.2.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.fingersoft.hcr2",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.bandainamcoent.saomdna": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://s-static-assets.androidapks.com/sdata/5c793f868cacf254be7ebe7bd165cdd9/com.bandainamcoent.saomdna_v1.37.0-360_Android-4.1.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.bandainamcoent.saomdna",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.nextwave.wcc2": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/2a90b07567c3477912157d734d359a6c/com.nextwave.wcc2_v2.8.6.6-80_Android-4.1.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.nextwave.wcc2",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.hcg.cok.gp": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/16fbed882d18f584bdd570bf51e8d871/com.hcg.cok.gp_v4.33.0-2185_Android-4.0.3.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.hcg.cok.gp",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.blizzard.wtcg.hearthstone": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/d904b168474c721941b1b7d10b0f9ef9/com.blizzard.wtcg.hearthstone_v14.2.30795-3079500_Android-4.0.3.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.blizzard.wtcg.hearthstone",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.ubisoft.accovenant": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://s-static-assets.androidapks.com/sdata/4887823c537ed4135fc3c05161183564/com.ubisoft.accovenant_v2.4.0-73821_Android-4.3.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.ubisoft.accovenant",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ]
+  }
+}

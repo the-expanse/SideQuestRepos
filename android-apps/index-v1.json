@@ -1,0 +1,502 @@
+{
+  "repo": {
+    "timestamp": 1502257810365,
+    "version": 21,
+    "name": "Android Apps",
+    "icon": "androidapps.png",
+    "address": "http://keepsummersafe.x10host.com/android-apps/",
+    "description": "Some handy android apps to use with Oculus TV"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Youtube",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "Oaag2az.png",
+      "packageName": "com.google.android.youtube",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Twitch: Livestream Multiplayer Games & Esports",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "mzNBU8j.png",
+      "packageName": "tv.twitch.android.app",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Kodi (XBMC)",
+      "sourceCode": "",
+      "summary": "This is the release of 18.2 \"Leia\"",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "vv0wM2Y.png",
+      "packageName": "org.xbmc.kodi",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "WhatsApp",
+      "sourceCode": "",
+      "summary": "This version: It’s now easier to start group voice and video calls. Just tap the call button in groups or select \"New group call\" when starting a new call in the calls tab. Group calls support up to 4 participants.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "DhUlUlO.png",
+      "packageName": "com.whatsapp",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Discord",
+      "sourceCode": "",
+      "summary": "Welcome to Discord, the best cross-platform chat app for text, video, and voice comms designed specifically for gamers. We’re used by over 250 million gamers around the world.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "284-2847989_discord-new-logo-icon-discord-icon.png",
+      "packageName": "com.discord",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Facebook",
+      "sourceCode": "",
+      "summary": "Facebook is the official app of social network of the same name. Connectivity was never so easy before facebook.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "2UQHMSZ.jpg",
+      "packageName": "com.facebook.katana",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Facebook Messenger",
+      "sourceCode": "",
+      "summary": "Facebook is the official app of social network of the same name. Now you can see your call history and missed calls; all in one place.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "Nc08rDH.png",
+      "packageName": "com.facebook.orca",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Microsoft Excel",
+      "sourceCode": "",
+      "summary": "view, edit and create excel files easily.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "9MYdMNs.png",
+      "packageName": "com.microsoft.office.excel",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Microsoft Word",
+      "sourceCode": "",
+      "summary": "view, edit and create word files easily.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "n6dDCR3.png",
+      "packageName": "com.microsoft.office.word",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Microsoft PowerPoint",
+      "sourceCode": "",
+      "summary": "view, edit and create powerpoint files easily.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "4VKaiUz.png",
+      "packageName": "com.microsoft.office.powerpoint",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Slack",
+      "sourceCode": "",
+      "summary": "Dark Mode can now be switched on (or off) in the Settings menu. Yes, it’s been a long road, but there’s finally dark at the end of the tunnel. NB: This is mobile only for now, with desktop coming later — thank you for both bearing with us, and for continuing to expect more of us.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "RYbfV5j.png",
+      "packageName": "com.Slack",
+      "lastUpdated": 1502257746030
+    }
+  ],
+  "packages": {
+    "com.google.android.youtube": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/0768546b126f13c444a2d7880ef9e9bf/com.google.android.youtube_v14.20.54-1420542300_Android-4.4.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.google.android.youtube",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "tv.twitch.android.app": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/b2f783fbbb61650dda94486bb208cd95/tv.twitch.android.app_v7.9.0-709000_Android-4.4.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "tv.twitch.android.app",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.Slack": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/7a964c447f994e98add7009b73c92d8d/com.Slack_v19.4.2.0-20009825_Android-4.4.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.Slack",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.microsoft.office.powerpoint": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/44997f410c83071273bffd6078bf5b39/com.microsoft.office.powerpoint_v16.0.11601.20074-2001731333_Android-6.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.microsoft.office.powerpoint",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.microsoft.office.word": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/c1b96f8fedfa5eb202fe0949b12f8748/com.microsoft.office.word_v16.0.11601.20074-2001731333_Android-6.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.microsoft.office.word",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.microsoft.office.excel": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/3c11d96c07f302062f606f3fcff484d6/com.microsoft.office.excel_v16.0.11601.20074-2001731333_Android-6.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.microsoft.office.excel",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.facebook.orca": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://s-static-assets.androidapks.com/sdata/0b80ec3b62f07f49062908d02bc23649/com.facebook.orca_v212.1.0.13.109-151534261_Android-5.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.facebook.orca",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.facebook.katana": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://s-static-assets.androidapks.com/sdata/7a131b4783691583e09943dff2f43308/com.facebook.katana_v218.0.0.46.109-151380998_Android-4.1.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.facebook.katana",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.discord": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://xactaccounts.co.uk/com.discord.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.discord",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.whatsapp": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://s-static-assets.androidapks.com/sdata/91f98ea637354e8078b2bc8bd31b3fd2/com.whatsapp_v2.19.116-452769_Android-4.0.3.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.whatsapp",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "org.xbmc.kodi": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://r-static-assets.androidapks.com/rdata/cbad328c3be33228033a1e262e3cf97f/org.xbmc.kodi_v18.2-1802000_Android-5.0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "org.xbmc.kodi",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ]
+  }
+}
