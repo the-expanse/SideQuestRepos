@@ -1,0 +1,458 @@
+{
+  "repo": {
+    "timestamp": 1502257810365,
+    "version": 21,
+    "name": "VR Games",
+    "icon": "vrgames.png",
+    "address": "http://showmewhatyougot.x10host.com/vr-games/",
+    "description": "Some great VR games! Launch these from the unknown sources list for now."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+    "apps": [
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Social VR"
+            ],
+            "suggestedVersionName": "0.1.18",
+            "suggestedVersionCode": "282",
+            "description": "We aim to expose as much possibilities as safely possible to be able to create experiences. There are guidelines to help created content to be accessible on as many platforms as possible with mobile and performance the main driver. Great content will be featured in the menu to be visited at the click of a button",
+            "issueTracker": "https://theexpanse.app/support/",
+            "license": "FREE",
+            "name": "The Expanse",
+            "sourceCode": "",
+            "summary": "The Expanse is a cross platform social vr app that will be available on all major headsets and 2d Mode for PC. ",
+            "webSite": "https://theexpanse.app",
+            "added": 1502257684722,
+            "icon": "expanse.jpg",
+            "packageName": "app.theexpanse.app",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
+            "description": ". This release brings some new features:Bullet-Time VR Mode: a blatant display of plagiarism, time progresses as you move yourself or your weapon, inspired by the Quake Mod SUPERQOT (courtesy of the SUPERHOT team) 3DoF weapon mode for those that don't like the slight movement 6DoF weapon introduced and fixes to a few things:Text Input now correctly allows you to join a multiplayer game (for more info on using text input, please see release notes for v1.1.0). Weapon scaling improvements",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "QuakeQuest",
+            "sourceCode": "",
+            "summary": "Classic Quake like you've never played before",
+            "webSite": "https://quakevr.com/",
+            "added": 1559229168000,
+            "icon": "QuakeQuest.jpg",
+            "packageName": "com.drbeef.quakequest",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
+            "description": "",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "QuakeGo",
+            "sourceCode": "",
+            "summary": "Classic Quake like you've never played before",
+            "webSite": "https://quakevr.com/",
+            "added": 1559229168000,
+            "icon": "QuakeQuest.jpg",
+            "packageName": "com.drbeef.quakegvr",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Baseball Simulation Minigames"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "3 Inning Baseball, Home Run Derby, Catching, Umpire Simulator, and Shooting all included.  There is a hard mode with pitches up to 100 mph.  #HomePlateBaseball, @Beep2Bleep, Web@Beep2Bleep.com",
+            "issueTracker": "",
+            "license": "FREE only while in Alpha",
+            "name": "Home Plate Baseball",
+            "sourceCode": "",
+            "summary": "Home Plate Baseball is a baseball simulator and mini-game collection​ for VR HMD with motion controllers.",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "homeplate.png",
+            "packageName": "com.Beep2Bleep.HomePlateBaseball",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS/ Adventure"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "After getting lost in the wrong levels for an eternity I came to a new unknown area, where ancient constructions and technology meets without a reason. Again the same questions unanswered. Who had built this world apparently abandoned? what was my role in all this? I have to find out...",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Wrong Voyage Ex Quest",
+            "sourceCode": "",
+            "summary": "Wrong Voyage Ex is a FPS/ exploration/ easy-puzzle hybrid game, with free intense locomotion, using a pixelated retro style.",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "wrong-voyage.png",
+            "packageName": "com.Fguillotine.WrongV_EX_Quest",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Action"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "Hardlight Blade is an arcade-style hack and slash arena game. Use the controller like a real sword to swing and cut through robotic enemies. Features: - Wield sci-fi weapons and slice up robots. They dynamically split into pieces based on your motions! Slice them quickly with the blade, or fling your axe at them, you have multiple options for taking down these bad bots. - Deflect laser blasts right back at your foes, and block their swords as they attempt to cut you up too! - Free movement! Use the thumbstick to move around the arena to escape, engage or dodge enemies. (If you're prone to motion sickness, the game can be played entirely stationary) - Global Leaderboard for each difficulty level Face down these insidious bots and aim for the high score. Pass the headset around to your friends and see who can survive the longest!",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Hardlight Blade",
+            "sourceCode": "",
+            "summary": "Wield a futuristic weapons of \"Hardlight\" and cut through hordes of bloodthirsty robots.",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "hlb.png",
+            "packageName": "com.RJdoesVR.HardlightBladeQuest",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Demo"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Tuscany VR",
+            "sourceCode": "",
+            "summary": "Want to go to Tuscany? In HD? Then this is the VR app for you! ",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "tuscany.webp",
+            "packageName": "com.oculus.UnitySample",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Social VR"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "AltspaceVR",
+            "sourceCode": "",
+            "summary": "Meet people from around the world, attend free live events, and play interactive games with friends. Day or night, there’s always someone to hang out with. ",
+            "webSite": "https://altvr.com",
+            "added": 1502257684722,
+            "icon": "AltspaceVR-Women-In-VR-Meet-up.png",
+            "packageName": "com.altvr.AltspaceVR_Client",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Games",
+                "Sports"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
+            "description": "Experience hockey in VR like you've never seen it before! Full-speed, 100% skill-based hockey. Play in cross-region multiplayer using single and dual-hand stick control, haptics, and more!",
+            "issueTracker": "http://www.electricfalcon.net/discord",
+            "license": "FREE",
+            "name": "Pick-up League Hockey",
+            "sourceCode": "",
+            "summary": "Pick-up League Hockey is a 3 vs 3 player multiplayer hockey simulator with realistic skating physics and a full size rink.",
+            "webSite": "http://www.electricfalcon.net/pickuphockey/",
+            "added": 1559229168000,
+            "icon": "logo-bg2.jpg",
+            "packageName": "net.electricfalcon.pickuphockeyvr",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
+            "description": "This original Gear VR title is rumored to work just as well on Oculus Go. It ships with freedoom rather than the doom shareware. To play actual doom you need to copy the doom files onto it. It works on Quest and Go but requires a controller. ",
+            "issueTracker": "https://github.com/DrBeef/DoomGVR/issues",
+            "license": "GPL",
+            "name": "DoomGVR",
+            "sourceCode": "https://github.com/DrBeef/DoomGVR",
+            "summary": "Play the original freedoom on the Oculus Go headset",
+            "webSite": "https://github.com/DrBeef/DoomGVR",
+            "added": 1559229168000,
+            "icon": "splash.png",
+            "packageName": "com.drbeef.doomgvr",
+            "lastUpdated": 1559229168000
+        }
+    ],
+    "packages": {
+        "com.Beep2Bleep.HomePlateBaseball": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://github.com/beep2bleep/HomePlateBaseballAlphaDistribution/releases/download/Alpha1/HomePlateBaseball_Quest_Alpha.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.Beep2Bleep.HomePlateBaseball",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.RJdoesVR.HardlightBladeQuest": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://cdn.glitch.com/11f1822b-df85-4880-afcf-fbe20f922fde%2FHardlightBladeQuest.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.RJdoesVR.HardlightBladeQuest",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.Fguillotine.WrongV_EX_Quest": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://cdn.glitch.com/7f1d6b69-ad67-4705-b86e-a2a1ce12092a%2FWrongVoyageEX_Quest_ENG.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.Fguillotine.WrongV_EX_Quest",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "1.3.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.oculus.UnitySample": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://cdn.glitch.com/3affca97-3aef-4548-90ef-972df300e7e1%2FTuscanyQuestv2.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.oculus.UnitySample",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "1.3.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.drbeef.quakegvr": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://github.com/DrBeef/QuakeGVR/releases/download/v1.3.4/quakegvr-v.1.3.4.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.drbeef.quakegvr",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "1.3.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.drbeef.quakequest": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://github.com/DrBeef/QuakeQuest/releases/download/v.1.2.1/quakequest-1.2.1.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.drbeef.quakequest",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "1.2.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.drbeef.doomgvr": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://github.com/DrBeef/DoomGVR/releases/download/v1.0.6/DoomGVR.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.drbeef.doomgvr",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "1.0.6",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "net.electricfalcon.pickuphockeyvr": [
+            {
+                "added": 1559229168000,
+                "apkName": "http://www.electricfalcon.net/quest/pulh-latest.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "net.electricfalcon.pickuphockeyvr",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "1.13.00",
+                "uses-permission": [
+                    [
+                        "Microphone"
+                    ]
+                ]
+            }
+        ],
+        "com.altvr.AltspaceVR_Client": [
+            {
+                "added": 1502257678527,
+                "apkName": "https://cdn.glitch.com/506364e1-c5a2-426d-a3b6-403165409386%2FAltspaceVR-3.1.31.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.altvr.AltspaceVR_Client",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "0.1.18",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "app.theexpanse.app": [
+            {
+                "added": 1502257678527,
+                "apkName": "https://cdn.theexpanse.app/TheExpanse.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "app.theexpanse.app",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "0.1.18",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ]
+    }
+}

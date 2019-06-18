@@ -1,0 +1,62 @@
+{
+  "repo": {
+    "timestamp": 1502257810365,
+    "version": 21,
+    "name": "NSFW",
+    "icon": "vrnsfw.png",
+    "address": "http://showmewhatyougot.x10host.com/nsfw/",
+    "description": "Some not safe for work content, wink wink ;)"
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "antiFeatures": [],
+      "categories": [
+        "VR Porn"
+      ],
+      "suggestedVersionName": "8.1.0",
+      "suggestedVersionCode": "282",
+      "description": "The SLR app is a revolutionary new VR sex app that allows you to stream the hottest VR porn right to your VR headset. Fully compatible with GearVR, Oculus Rift, Oculus Go, HTC Vive, Cardboard, Daydream and Windows MR, our VR porn streaming app makes choosing, watching, and enjoying your favorite movies as easy as clicking a video on YouTube (if you own a PlayStation VR, check out our PSVR porn tutorial). Simply log in, choose the video you want to interact with then kick back and enjoy. The app does all the leg work so you can focus on enjoying the show. No matter what hardware you have, this virtual reality porn app is sure to make your life significantly easier. The SLR app gathers up the hottest videos from the biggest, best studios and brings them right to you. 24 free full-length VR porn downloads inside as well!",
+      "issueTracker": "https://www.reddit.com/r/OculusGo/comments/8ptett/slr_app_for_oculus_go_beta/",
+      "license": "COMMERCIAL",
+      "name": "SLR (Quest & Go)",
+      "sourceCode": "",
+      "summary": "Tired of downloading VR porn videos? ",
+      "webSite": "https://www.sexlikereal.com/app",
+      "added": 1502257684722,
+      "icon": "slr.png",
+      "packageName": "com.slr.oculus.go",
+      "lastUpdated": 1502257746030
+    }
+  ],
+  "packages": {
+    "com.slr.oculus.go": [
+      {
+        "added": 1502257678527,
+        "apkName": "http://app-builds.sexlikereal.com/slr_go.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.slr.oculus.go",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "8.1.0",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ]
+  }
+}

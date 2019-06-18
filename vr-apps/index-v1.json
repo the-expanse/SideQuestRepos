@@ -1,0 +1,194 @@
+{
+  "repo": {
+    "timestamp": 1502257810365,
+    "version": 21,
+    "name": "VR Apps",
+    "icon": "vrapps.png",
+    "address": "http://showmewhatyougot.x10host.com/vr-apps/",
+    "description": "Some great VR apps to do things like streaming from PC."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+    "apps": [
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Desktop Streaming"
+            ],
+            "suggestedVersionName": "2.3.13",
+            "suggestedVersionCode": "282",
+            "description": "This version of Virtual Desktop lets you stream SteamVR games from your computer to your Oculus Go, Oculus Quest or Gear VR headset over Wi-Fi or from anywhere around the world. It supports Bluetooth mice, keyboards and gamepads. It features glitch-free low latency streaming. You need to own the app in the Oculus Store for this apk to work.",
+            "issueTracker": "",
+            "license": "COMMERCIAL",
+            "name": "Virtual Desktop",
+            "sourceCode": "",
+            "summary": "Connect to your computer to watch movies, browse the web or play games. ",
+            "webSite": "https://www.vrdesktop.net/",
+            "added": 1560440707917,
+            "icon": "VirtualDesktop.png",
+            "packageName": "VirtualDesktop.Android",
+            "lastUpdated": 1560440707917
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Demo"
+            ],
+            "suggestedVersionName": "2.3.13",
+            "suggestedVersionCode": "282",
+            "description": "This is a bluetooth demo by ProTubeVR to show the haptic support for oculus quest.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "BT Manager by ProTubeVR",
+            "sourceCode": "",
+            "summary": "Manage bluetooth devices on your Oculus Quest!",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "protubevr.jpg",
+            "packageName": "com.protubevr.forcetubevrquest",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Desktop Streaming"
+            ],
+            "suggestedVersionName": "2.3.13",
+            "suggestedVersionCode": "282",
+            "description": "We will make your computer think that your phone with Google Cardboard is a powerful PC VR headset.",
+            "issueTracker": "https://support.riftcat.com/hc/en-us/articles/360005631080",
+            "license": "COMMERCIAL",
+            "name": "VRidge Riftcat",
+            "sourceCode": "",
+            "summary": "Use VRidge technology to turn your phone into an HTC Vive headset. ",
+            "webSite": "https://riftcat.com/vridge",
+            "added": 1502257684722,
+            "icon": "vridge.png",
+            "packageName": "com.riftcat.vridge2",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Desktop Streaming"
+            ],
+            "suggestedVersionName": "2.4.0-alpha1",
+            "suggestedVersionCode": "282",
+            "description": "ALVR streams VR display output from your PC to Gear VR / Oculus Go via Wi-Fi. This is similar to Riftcat or Trinus VR, but our purpose is optimization for Gear VR. ALVR provides smooth head-tracking compared to other apps in a Wi-Fi environment using Asynchronous Timewarp. Now, we have Gear VR / Oculus Go Controller support!",
+            "issueTracker": "https://github.com/polygraphene/ALVR/issues",
+            "license": "MIT",
+            "name": "ALVR",
+            "sourceCode": "https://github.com/polygraphene/ALVR",
+            "summary": "ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.",
+            "webSite": "https://github.com/polygraphene/ALVR",
+            "added": 1502257684722,
+            "icon": "ALVR.png",
+            "packageName": "com.polygraphene.alvr",
+            "lastUpdated": 1502257746030
+        }
+    ],
+    "packages": {
+        "com.protubevr.forcetubevrquest": [
+            {
+                "added": 1560440707917,
+                "apkName": "https://cdn.glitch.com/3140eaf0-6e73-47c0-9261-5232a07a2c8e%2FForceTubeVR_Demo.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.protubevr.forcetubevrquest",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "1.4.2",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "VirtualDesktop.Android": [
+            {
+                "added": 1560440707917,
+                "apkName": "https://download.vrdesktop.net/files/VirtualDesktop.Android.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "VirtualDesktop.Android",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "1.4.2",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.riftcat.vridge2": [
+            {
+                "added": 1502257678527,
+                "apkName": "https://xactaccounts.co.uk/com.riftcat.vridge2.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.riftcat.vridge2",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "2.3.13",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
+        "com.polygraphene.alvr": [
+            {
+                "added": 1502257678527,
+                "apkName": "https://github.com/polygraphene/ALVR/releases/download/v2.4.0-alpha5/ALVRClient-GithubNormalOvr-release-v2.4.0-alpha5.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.polygraphene.alvr",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "2.4.0",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ]
+    }
+}
