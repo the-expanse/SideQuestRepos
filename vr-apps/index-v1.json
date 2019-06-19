@@ -53,6 +53,25 @@
         {
             "antiFeatures": [],
             "categories": [
+                "Creativity Tools"
+            ],
+            "suggestedVersionName": "2.3.13",
+            "suggestedVersionCode": "282",
+            "description": "Shifting boundaries in realities. Create new motions and textured spaces. Folding molecules with vibrations.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "muse",
+            "sourceCode": "",
+            "summary": "Musical instrument in new planes of existence.",
+            "webSite": "https://voidpulse.com/",
+            "added": 1502257684722,
+            "icon": "muse.jpg",
+            "packageName": "com.voidpulse.muse",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
                 "Desktop Streaming"
             ],
             "suggestedVersionName": "2.3.13",
@@ -90,6 +109,31 @@
         }
     ],
     "packages": {
+        "com.voidpulse.muse": [
+            {
+                "added": 1560440707917,
+                "apkName": "https://voidpulse.com/muse/museAlpha.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.voidpulse.muse",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "0.0.11",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.protubevr.forcetubevrquest": [
             {
                 "added": 1560440707917,
