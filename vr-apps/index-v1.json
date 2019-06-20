@@ -34,6 +34,25 @@
         {
             "antiFeatures": [],
             "categories": [
+                "Social VR"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "rumii is a social VR platform focused on conferencing and education. If you're looking for a platform to replace unpleasant Skype or video conferencing meetings, this is your go-to. This free version allows 5 simultaneous users in the same room with unlimited team members. Watch movies, load PDFs, presentations, load 3D models, play audio files, share your screen, share camera streams and more. rumii is cross platform with all PC VR, the Oculus Go, Oculus Quest, Android (non-VR mode), PC and Mac (non-VR mode).",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "rumii",
+            "sourceCode": "",
+            "summary": "rumii is a social-virtual reality platform that enables people to educate and collaborate in a 3D virtual environment from anywhere on earth.",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "rumii_logo1.png",
+            "packageName": "com.DogheadSimulations.Rumii",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
                 "Demo"
             ],
             "suggestedVersionName": "2.3.13",
@@ -109,6 +128,31 @@
         }
     ],
     "packages": {
+        "com.DogheadSimulations.Rumii": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://cdn.glitch.com/133b50c9-ca71-461e-83ed-81cd0033fd8b%2Frumii_quest.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.DogheadSimulations.Rumii",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.voidpulse.muse": [
             {
                 "added": 1560440707917,
