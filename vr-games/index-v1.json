@@ -72,6 +72,25 @@
         {
             "antiFeatures": [],
             "categories": [
+                "Simulation"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "BRING IT DOWN! challenges the player to demolish structures given a limited supply of explosives. Your grasp on physics will be heavily disputed as you make your way through a variety of levels.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "BRING IT DOWN!",
+            "sourceCode": "",
+            "summary": "Become an explosives and demolition expert and raze some buildings!",
+            "webSite": "",
+            "added": 1502257684722,
+            "icon": "bringitdown.png",
+            "packageName": "com.mirrorqueen.bringitdown",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
                 "Baseball Simulation Minigames"
             ],
             "suggestedVersionName": "0.0.1",
@@ -81,7 +100,7 @@
             "license": "FREE only while in Alpha",
             "name": "Home Plate Baseball",
             "sourceCode": "",
-            "summary": "Home Plate Baseball is a baseball simulator and mini-game collection​ for VR HMD with motion controllers.",
+            "summary": "Home Plate Baseball is a baseball simulator and mini-game collection for VR HMD with motion controllers.",
             "webSite": "",
             "added": 1502257684722,
             "icon": "homeplate.png",
@@ -205,6 +224,31 @@
         }
     ],
     "packages": {
+        "com.mirrorqueen.bringitdown": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://triverske.net/bid/bringitdown.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.mirrorqueen.bringitdown",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.Beep2Bleep.HomePlateBaseball": [
             {
                 "added": 1559229168000,
