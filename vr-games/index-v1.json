@@ -451,7 +451,7 @@
         "com.altvr.AltspaceVR_Client": [
             {
                 "added": 1502257678527,
-                "apkName": "https://cdn.glitch.com/506364e1-c5a2-426d-a3b6-403165409386%2FAltspaceVR-3.1.31.apk",
+                "apkName": "https://cdn.glitch.com/4cabfdc8-6178-492d-92d7-2d6d9b87a23a%2FAltvr_3.2.4.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
@@ -464,7 +464,7 @@
                 "srcname": "",
                 "targetSdkVersion": "22",
                 "versionCode": 2,
-                "versionName": "0.1.18",
+                "versionName": "3.2.4",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
