@@ -471,6 +471,30 @@
                         null
                     ]
                 ]
+            },
+          
+            {
+                "added": 1502257678527,
+                "apkName": "https://cdn.glitch.com/506364e1-c5a2-426d-a3b6-403165409386%2FAltspaceVR-3.1.31.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.altvr.AltspaceVR_Client",
+                "sig": "",
+                "size": 1302807,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 2,
+                "versionName": "3.1.31",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
             }
         ],
         "app.theexpanse.app": [
