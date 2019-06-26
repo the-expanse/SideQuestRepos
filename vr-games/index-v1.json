@@ -85,7 +85,7 @@
             "webSite": "http://crisisvrigade.com",
             "added": 1502257684722,
             "icon": "crisis_icon.png",
-            "packageName": "com.sumalab.crisisvrigade",
+            "packageName": "com.sumalab.CrisisVRigade",
             "lastUpdated": 1502257746030
         },
         {
@@ -243,7 +243,7 @@
         }
     ],
     "packages": {
-        "com.sumalab.crisisvrigade": [
+        "com.sumalab.CrisisVRigade": [
             {
                 "added": 1559229168000,
                 "apkName": "http://www.crisisvrigade.com/apk/crisisvrigade.apk",
