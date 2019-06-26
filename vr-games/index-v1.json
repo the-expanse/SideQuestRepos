@@ -72,6 +72,25 @@
         {
             "antiFeatures": [],
             "categories": [
+                "Shooter VR"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "Duty calls! You're put in the middle of the action. It's a dirty job but someone has to do it. Together with a SWAT team you will have to deal with the situation and take care of the terrorists who are robbing the bank. Your mission is cristal clear: finish off all hostile elements and keep your teammates and hostages alive. Make your away through bank to the safe where the terrorist have made a stronghold and threaten to kill the hostages if their demands are not met. Be aware of your ammunition and take cover while reloading your gun or you will be exposed and is over: maybe you see the bullet comming, maybe you didn't, but the terrorist got away and your partners now have the unpleasant task of giving the bad news to your nearest relative. You got the highest rates at the academy, it's time to prove it! ",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Crisis VRigade",
+            "sourceCode": "",
+            "summary": "Crisis VRigade is a virtual reality action filled first person shooter that lets players take on the role of a SWAT trooper and deal with terrorist situations",
+            "webSite": "http://crisisvrigade.com",
+            "added": 1502257684722,
+            "icon": "crisis_icon.png",
+            "packageName": "com.sumalab.crisisvrigade",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
                 "Simulation"
             ],
             "suggestedVersionName": "0.0.1",
@@ -224,6 +243,31 @@
         }
     ],
     "packages": {
+        "com.sumalab.crisisvrigade": [
+            {
+                "added": 1559229168000,
+                "apkName": "http://www.crisisvrigade.com/apk/crisisvrigade.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.sumalab.crisisvrigade",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.4",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.mirrorqueen.bringitdown": [
             {
                 "added": 1559229168000,
