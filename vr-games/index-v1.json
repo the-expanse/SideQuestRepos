@@ -57,6 +57,25 @@
             ],
             "suggestedVersionName": "1.13.00",
             "suggestedVersionCode": "113",
+            "description": "We are creating VR exhibition spaces for galleries, auction houses, museums, collectors and artists. You can host private or public exhibitions, opening receptions, do guided tours of collections and sell artworks in virtual reality with Art Gate VR.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Art Gate",
+            "sourceCode": "",
+            "summary": "Unlock The Artworld",
+            "webSite": "https://artgatevr.com/",
+            "added": 1559229168000,
+            "icon": "ArtGate_Hero.png",
+            "packageName": "com.BMINC.ArtGateVR",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
             "description": "",
             "issueTracker": "",
             "license": "FREE",
@@ -262,6 +281,31 @@
         }
     ],
     "packages": {
+        "com.BMINC.ArtGateVR": [
+            {
+                "added": 1559229168000,
+                "apkName": "http://artgatevr.com/app/APK/ArtGateVR_v2.0.8.3.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.BMINC.ArtGateVR",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.JumbliVR.Jigsaw360": [
             {
                 "added": 1559229168000,
