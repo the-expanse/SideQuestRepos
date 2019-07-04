@@ -98,6 +98,25 @@
       "description": "",
       "issueTracker": "",
       "license": "FREE",
+      "name": "Telegram",
+      "sourceCode": "",
+      "summary": "This version: It’s now easier to start group voice and video calls. Just tap the call button in groups or select \"New group call\" when starting a new call in the calls tab. Group calls support up to 4 participants.",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "Telegram.png",
+      "packageName": "org.telegram.messenger",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "Chat"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
       "name": "Discord",
       "sourceCode": "",
       "summary": "Welcome to Discord, the best cross-platform chat app for text, video, and voice comms designed specifically for gamers. We’re used by over 250 million gamers around the world.",
@@ -466,6 +485,31 @@
         "versionCode": 2,
         "versionName": "0.0.1",
         "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "org.telegram.messenger": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a90732ea-cfed-4b4d-96c6-08e68f64c30d%2Ftelegram-5-8-0.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "org.telegram.messenger",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission": [
           [
             "No permissions Listed...",
             null
