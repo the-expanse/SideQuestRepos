@@ -53,6 +53,25 @@
         {
             "antiFeatures": [],
             "categories": [
+                "Roguelite Shooter"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
+            "description": "Travel using your own feet into the depths of an AI temple. Doesn't matter how much space do you have, the game will try to make the most of it and will fit the procedurally generated worlds in the space you have.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Tea For God",
+            "sourceCode": "",
+            "summary": "Roguelite shooter that uses impossible spaces",
+            "webSite": "https://void-room.itch.io/tea-for-god",
+            "added": 1559229168000,
+            "icon": "teaforgod512.jpg",
+            "packageName": "com.voidroom.TeaForGod",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
                 "Horror VR"
             ],
             "suggestedVersionName": "1.13.00",
@@ -300,6 +319,31 @@
         }
     ],
     "packages": {
+        "com.voidroom.TeaForGod": [
+            {
+                "added": 1559229168000,
+                "apkName": "http://voidroom.com/download/tea.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.voidroom.TeaForGod",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "cz.paperbunker.horrornights": [
             {
                 "added": 1559229168000,
