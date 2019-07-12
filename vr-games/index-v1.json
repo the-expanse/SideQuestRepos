@@ -53,6 +53,25 @@
         {
             "antiFeatures": [],
             "categories": [
+                "Horror VR"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
+            "description": "You better dig fast and escape! Prepare your mind for hordes of scary monsters, that are crawling through an old mine, trying to get you! You are equipped with nothing more than a pickaxe and bomb for each of the five nights. You have to get to the end of tunnel as soon as possible and not get eaten alive! While also taking care of another room with oxygen generator. Watch out for the electric blackout.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Horror Nights Story (Quest)",
+            "sourceCode": "",
+            "summary": "Dig and find freedom through old mine,while running away from horde of monsters!",
+            "webSite": "https://paperbunker.cz/",
+            "added": 1559229168000,
+            "icon": "HorrorNightsStory.jpg",
+            "packageName": "cz.paperbunker.horrornights",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
                 "FPS"
             ],
             "suggestedVersionName": "1.13.00",
@@ -281,6 +300,31 @@
         }
     ],
     "packages": {
+        "cz.paperbunker.horrornights": [
+            {
+                "added": 1559229168000,
+                "apkName": "http://paperbunker.cz/games/hns.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "cz.paperbunker.horrornights",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.BMINC.ArtGateVR": [
             {
                 "added": 1559229168000,
