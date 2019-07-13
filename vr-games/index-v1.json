@@ -57,6 +57,25 @@
             ],
             "suggestedVersionName": "1.13.00",
             "suggestedVersionCode": "113",
+            "description": "You will blast your way through DogCorp with a straightforward goal in mind... TO GET BACK YOUR DOG! He was taken, and it's up to you as his owner to bring him home safely, but they won't go down without a fight! This game also features an incredibly unique 1:1 real-world  Movement system for enhanced immersion. (walk around)",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "DogCorp",
+            "sourceCode": "",
+            "summary": "A Short VR experience about rescuing your dog!",
+            "webSite": "https://handleyshelton.itch.io/",
+            "added": 1559229168000,
+            "icon": "dogcorp.png",
+            "packageName": "com.oculus.DogCorp",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
             "description": ". This release brings some new features:Bullet-Time VR Mode: a blatant display of plagiarism, time progresses as you move yourself or your weapon, inspired by the Quake Mod SUPERQOT (courtesy of the SUPERHOT team) 3DoF weapon mode for those that don't like the slight movement 6DoF weapon introduced and fixes to a few things:Text Input now correctly allows you to join a multiplayer game (for more info on using text input, please see release notes for v1.1.0). Weapon scaling improvements",
             "issueTracker": "",
             "license": "FREE",
@@ -338,6 +357,31 @@
         }
     ],
     "packages": {
+        "com.oculus.DogCorp": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://www.dropbox.com/s/0prbsnbhar1od04/DogCorpV2.apk?dl=1",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.oculus.DogCorp",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.MyronSoftware.Deisim": [
             {
                 "added": 1559229168000,
