@@ -38,6 +38,25 @@
             ],
             "suggestedVersionName": "1.13.00",
             "suggestedVersionCode": "113",
+            "description": "Deisim is a modern take on classic god games like populous or black and white but designed with roomscale VR in mind.<br><br>You can build you own world from scratch and help mankind to evolve from the stone age to the industrial revolution. <br>Perform miracles and provide them the needed resources or make them suffer with disasters.<br><br>You can do what you want in Deisim. You are in charge and nobody will judge your actions, <br>but you must take care of the heresy slowly corrupting your people and converting them to the false god.<br><br>You are the all mighty, but humans are the source of your power.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Deisim",
+            "sourceCode": "",
+            "summary": "The virtual reality god simulator",
+            "webSite": "http://www.deisim.com/",
+            "added": 1559229168000,
+            "icon": "Deisim-SideQuest.png",
+            "packageName": "com.MyronSoftware.Deisim",
+            "lastUpdated": 1559229168000
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "FPS"
+            ],
+            "suggestedVersionName": "1.13.00",
+            "suggestedVersionCode": "113",
             "description": ". This release brings some new features:Bullet-Time VR Mode: a blatant display of plagiarism, time progresses as you move yourself or your weapon, inspired by the Quake Mod SUPERQOT (courtesy of the SUPERHOT team) 3DoF weapon mode for those that don't like the slight movement 6DoF weapon introduced and fixes to a few things:Text Input now correctly allows you to join a multiplayer game (for more info on using text input, please see release notes for v1.1.0). Weapon scaling improvements",
             "issueTracker": "",
             "license": "FREE",
@@ -319,6 +338,31 @@
         }
     ],
     "packages": {
+        "com.MyronSoftware.Deisim": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://github.com/TMaloteaux/deisim-quest/releases/download/v.ea.1.24/deisim.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.MyronSoftware.Deisim",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.voidroom.TeaForGod": [
             {
                 "added": 1559229168000,
