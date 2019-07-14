@@ -60,44 +60,6 @@
       "description": "",
       "issueTracker": "",
       "license": "FREE",
-      "name": "Alto's Adventure",
-      "sourceCode": "",
-      "summary": "",
-      "webSite": "",
-      "added": 1502257684722,
-      "icon": "alto_adventure.png",
-      "packageName": "com.noodlecake.altosadventure",
-      "lastUpdated": 1502257746030
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "TV"
-      ],
-      "suggestedVersionName": "0.0.1",
-      "suggestedVersionCode": "282",
-      "description": "",
-      "issueTracker": "",
-      "license": "FREE",
-      "name": "Alto's Odyssey",
-      "sourceCode": "",
-      "summary": "",
-      "webSite": "",
-      "added": 1502257684722,
-      "icon": "alto_odyssey.png",
-      "packageName": "com.noodlecake.altosodyssey",
-      "lastUpdated": 1502257746030
-    },
-    {
-      "antiFeatures": [],
-      "categories": [
-        "TV"
-      ],
-      "suggestedVersionName": "0.0.1",
-      "suggestedVersionCode": "282",
-      "description": "",
-      "issueTracker": "",
-      "license": "FREE",
       "name": "The Sims Mobile",
       "sourceCode": "",
       "summary": "",
