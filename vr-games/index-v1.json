@@ -285,6 +285,25 @@
             ],
             "suggestedVersionName": "0.0.1",
             "suggestedVersionCode": "282",
+            "description": "A little something I have just posted on the quest facebook group in case anyone is interested.<br><br>I bought a unity asset a while ago called pinball creator and never really got round to creating anything. Anyway it came with a demo table ready for mobile but not ready for VR.<br><br>So all I have done is add the ovr camera and set the controller buttons so that you can play. Its 6dof so you can be as close as you want to the table.<br><br>Keys are<br><br>Left Controller Trigger - Left Flipper<br><br>Right Controller Trigger - Right Flipper<br><br>A button - Start and Plunger<br><br>X Button - Pause/Unpause",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "Octopus Quest Pinball",
+            "sourceCode": "",
+            "summary": "Pinball in VR on Quest",
+            "webSite": "https://www.reddit.com/r/OculusQuest/comments/bxk7bu/octopus_pinball/",
+            "added": 1502257684722,
+            "icon": "octopus_island.png",
+            "packageName": "com.octopus.island",
+            "lastUpdated": 1502257746030
+        },
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Demo"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
             "description": "",
             "issueTracker": "",
             "license": "FREE",
@@ -357,6 +376,54 @@
         }
     ],
     "packages": {
+      "com.octopus.island": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FOctopusQuestPinball.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.octopus.island",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1-OctopusQuestPinball",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            },
+            {
+                "added": 1559229168000,
+                "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FSkullQuestPinballCreator.apk",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.octopus.island2",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.2-SkullQuestPinballCreator",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.oculus.DogCorp": [
             {
                 "added": 1559229168000,
