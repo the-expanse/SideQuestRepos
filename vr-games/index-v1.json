@@ -285,7 +285,7 @@
             ],
             "suggestedVersionName": "0.0.1",
             "suggestedVersionCode": "282",
-            "description": "A little something I have just posted on the quest facebook group in case anyone is interested.<br><br>I bought a unity asset a while ago called pinball creator and never really got round to creating anything. Anyway it came with a demo table ready for mobile but not ready for VR.<br><br>So all I have done is add the ovr camera and set the controller buttons so that you can play. Its 6dof so you can be as close as you want to the table.<br><br>Keys are<br><br>Left Controller Trigger - Left Flipper<br><br>Right Controller Trigger - Right Flipper<br><br>A button - Start and Plunger<br><br>X Button - Pause/Unpause",
+            "description": "NOTICE: Please uninstall tuscany if you see an error like <span class='chip'>INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.oculus.UnitySample signatures do not match the previously installed version; ignoring!</span>A little something I have just posted on the quest facebook group in case anyone is interested.<br><br>I bought a unity asset a while ago called pinball creator and never really got round to creating anything. Anyway it came with a demo table ready for mobile but not ready for VR.<br><br>So all I have done is add the ovr camera and set the controller buttons so that you can play. Its 6dof so you can be as close as you want to the table.<br><br>Keys are<br><br>Left Controller Trigger - Left Flipper<br><br>Right Controller Trigger - Right Flipper<br><br>A button - Start and Plunger<br><br>X Button - Pause/Unpause",
             "issueTracker": "",
             "license": "FREE",
             "name": "Octopus Quest Pinball",
