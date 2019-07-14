@@ -41,6 +41,120 @@
       "description": "",
       "issueTracker": "",
       "license": "FREE",
+      "name": "Cut the Rope 2",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "cut_the_rope.png",
+      "packageName": "com.zeptolab.ctr2.f2p.google",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Alto's Adventure",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "alto_adventure.png",
+      "packageName": "com.noodlecake.altosadventure",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Alto's Odyssey",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "alto_odyssey.png",
+      "packageName": "com.noodlecake.altosodyssey",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "The Sims Mobile",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "sims.png",
+      "packageName": "com.ea.gp.simsmobile",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Dota Underlords",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "dota_underground.png",
+      "packageName": "com.valvesoftware.underlords",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
+      "name": "Card Crawl",
+      "sourceCode": "",
+      "summary": "",
+      "webSite": "",
+      "added": 1502257684722,
+      "icon": "card_crawl.png",
+      "packageName": "com.tinytouchtales.cardcrawl",
+      "lastUpdated": 1502257746030
+    },
+    {
+      "antiFeatures": [],
+      "categories": [
+        "TV"
+      ],
+      "suggestedVersionName": "0.0.1",
+      "suggestedVersionCode": "282",
+      "description": "",
+      "issueTracker": "",
+      "license": "FREE",
       "name": "Solitaire",
       "sourceCode": "",
       "summary": "",
@@ -318,6 +432,156 @@
     }
   ],
   "packages": {
+    "com.noodlecake.altosadventure": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FAlto%20s%20Adventure_v1.7.2_apkpure.com.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.noodlecake.altosadventure",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.noodlecake.altosodyssey": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FAlto%20s%20Odyssey_v1.0.6_apkpure.com.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.noodlecake.altosodyssey",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.ea.gp.simsmobile": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FThe%20Sims%E2%84%A2%20Mobile_v14.0.2.266018_apkpure.com.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.ea.gp.simsmobile",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.valvesoftware.underlords": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FDota%20Underlords_v1.0_apkpure.com.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.valvesoftware.underlords",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.zeptolab.ctr2.f2p.google": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FCut%20the%20Rope%202_v1.19.3_apkpure.com.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.zeptolab.ctr2.f2p.google",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
+    "com.tinytouchtales.cardcrawl": [
+      {
+        "added": 1502257678527,
+        "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FCard%20Crawl_v2.3.7_apkpure.com.apk",
+        "hash": "",
+        "hashType": "sha256",
+        "minSdkVersion": "16",
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.tinytouchtales.cardcrawl",
+        "sig": "",
+        "size": 1302807,
+        "srcname": "",
+        "targetSdkVersion": "22",
+        "versionCode": 2,
+        "versionName": "0.0.1",
+        "uses-permission":[
+          [
+            "No permissions Listed...",
+            null
+          ]
+        ]
+      }
+    ],
     "com.gameloft.android.ANMP.GloftSIHM": [
       {
         "added": 1502257678527,
