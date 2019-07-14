@@ -4,7 +4,7 @@
     "version": 21,
     "name": "Android Games",
     "icon": "games.png",
-    "address": "http://keepsummersafe.x10host.com/android-games/",
+    "address": "https://the-expanse.github.io/SideQuestRepos/android-games/",
     "description": "Some cool android games to enjoy in Oculus TV"
   },
   "requests": {
