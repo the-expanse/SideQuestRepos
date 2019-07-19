@@ -30,6 +30,25 @@
             "icon": "VirtualDesktop.png",
             "packageName": "VirtualDesktop.Android",
             "lastUpdated": 1560440707917
+        }, 
+        {
+            "antiFeatures": [],
+            "categories": [
+                "Social VR"
+            ],
+            "suggestedVersionName": "0.0.1",
+            "suggestedVersionCode": "282",
+            "description": "ENGAGE empowers educators and companies to host meetings, presentations, classes, teamwork collaboration sessions and events with people across the world.<br><br>Using the platform, virtual reality training and experiences can be created in minutes. The tools are very easy to use and require no technical expertise. You can choose to host your virtual reality sessions live, or record and save them for others to experience later. A wide variety of effective and immersive virtual experiences can be created with an extensive library of virtual objects, effects and virtual locations available.<br><br>The full cross-platform capability of ENGAGE allows users to interact with each other whether they are on PC or mobile.",
+            "issueTracker": "",
+            "license": "FREE",
+            "name": "ENGAGE",
+            "sourceCode": "",
+            "summary": "ENGAGE is an advanced virtual reality training and education platform that makes it easy to collaborate, create and learn in VR.",
+            "webSite": "https://engagevr.io/",
+            "added": 1502257684722,
+            "icon": "engage-logo.jpg",
+            "packageName": "com.ivre.engage",
+            "lastUpdated": 1502257746030
         },
         {
             "antiFeatures": [],
@@ -128,6 +147,31 @@
         }
     ],
     "packages": {
+        "com.ivre.engage": [
+            {
+                "added": 1559229168000,
+                "apkName": "https://tinyurl.com/engage-quest",
+                "hash": "",
+                "hashType": "sha256",
+                "minSdkVersion": "16",
+                "nativecode": [
+                    "armeabi-v7a"
+                ],
+                "packageName": "com.ivre.engage",
+                "sig": "",
+                "size": 55156885,
+                "srcname": "",
+                "targetSdkVersion": "22",
+                "versionCode": 113,
+                "versionName": "0.0.1",
+                "uses-permission": [
+                    [
+                        "No permissions Listed...",
+                        null
+                    ]
+                ]
+            }
+        ],
         "com.DogheadSimulations.Rumii": [
             {
                 "added": 1559229168000,
