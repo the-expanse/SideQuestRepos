@@ -57,7 +57,7 @@
             ],
             "suggestedVersionName": "1.13.00",
             "suggestedVersionCode": "113",
-            "description": "Users can pickup magical wands, collect magic eggs, catch butterflies, shoot basketball hoops, play ring toss, tee ball, golf, fruit toss, feed animals, go underwater with fish, collect starfish, play music instruments, and more! <br><br>This is a direct port of the Camp Magic Rift version. The Rift version is also available to play and runs great on minimum spec PCs. <br>The Quest version still needs some optimizing, I was able to drop the draw calls from 1275 to 436 and get it to be playable, there is still room for improvement of course.<br>I wanted to put this out there as a Beta for users to play, give feedback, and possibly donate if they liked the experience. <br>Developed by Fred Beahm, Music by Yao Wang",
+            "description": "Users can pickup magical wands, collect magic eggs, catch butterflies, shoot basketball hoops, play ring toss, tee ball, golf, fruit toss, feed animals, go underwater with fish, collect starfish, play music instruments, and more! <br><br>This is a direct port of the Camp Magic Rift version. The Rift version is also available to play and runs great on minimum spec PCs. <br><br>The Quest version still needs some optimizing, I was able to drop the draw calls from 1275 to 436 and get it to be playable, there is still room for improvement of course.<br><br>I wanted to put this out there as a Beta for users to play, give feedback, and possibly donate if they liked the experience. <br><br>Developed by Fred Beahm, Music by Yao Wang",
             "issueTracker": "",
             "license": "FREE",
             "name": "Camp Magic",
