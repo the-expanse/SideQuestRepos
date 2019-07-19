@@ -4,7 +4,7 @@
     "version": 21,
     "name": "VR Apps",
     "icon": "vrapps.png",
-    "address": "http://showmewhatyougot.x10host.com/vr-apps/",
+    "address": "https://the-expanse.github.io/SideQuestRepos/vr-apps/",
     "description": "Some great VR apps to do things like streaming from PC."
   },
   "requests": {
