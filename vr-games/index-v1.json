@@ -796,7 +796,7 @@
         "com.drbeef.quakequest": [
             {
                 "added": 1559229168000,
-                "apkName": "https://github.com/DrBeef/QuakeQuest/releases/download/v.1.2.1/quakequest-1.2.1.apk",
+                "apkName": "https://github.com/DrBeef/QuakeQuest/releases/download/v1.2.2/quakequest-1.2.2.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
@@ -809,7 +809,7 @@
                 "srcname": "",
                 "targetSdkVersion": "22",
                 "versionCode": 113,
-                "versionName": "1.2.1",
+                "versionName": "1.2.2",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
