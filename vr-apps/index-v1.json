@@ -112,7 +112,7 @@
             "categories": [
                 "Desktop Streaming"
             ],
-            "suggestedVersionName": "2.3.13",
+            "suggestedVersionName": "2.3.13-beta",
             "suggestedVersionCode": "282",
             "description": "We will make your computer think that your phone with Google Cardboard is a powerful PC VR headset.",
             "issueTracker": "https://support.riftcat.com/hc/en-us/articles/360005631080",
@@ -123,7 +123,7 @@
             "webSite": "https://riftcat.com/vridge",
             "added": 1502257684722,
             "icon": "vridge.png",
-            "packageName": "com.riftcat.vridge2",
+            "packageName": "com.riftcat.vridgeoculus.beta.beta",
             "lastUpdated": 1502257746030
         },
         {
@@ -272,7 +272,7 @@
                 ]
             }
         ],
-        "com.riftcat.vridge2": [
+        "com.riftcat.vridgeoculus.beta.beta": [
             {
                 "added": 1502257678527,
                 "apkName": "https://xactaccounts.co.uk/com.riftcat.vridge2.apk",
@@ -282,13 +282,13 @@
                 "nativecode": [
                     "armeabi-v7a"
                 ],
-                "packageName": "com.riftcat.vridge2",
+                "packageName": "com.riftcat.vridgeoculus.beta.beta",
                 "sig": "",
-                "size": 1302807,
+                "size": 13110000,
                 "srcname": "",
                 "targetSdkVersion": "22",
                 "versionCode": 2,
-                "versionName": "2.3.13",
+                "versionName": "2.3.13-beta",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
