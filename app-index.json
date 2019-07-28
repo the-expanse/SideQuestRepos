@@ -4,6 +4,7 @@
   "com.altvr.AltspaceVR_Client":{"name": "AltspaceVR","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
   "com.altvr.AltspaceVR_Quest":{"name": "AltspaceVR","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
   "com.MyronSoftware.Deisim":{"name": "Deisim","icon":"vr-games/icons/Deisim-SideQuest.png"},
+  "com.ivre.engage":{"name": "Engage","icon":"vr-apps/icons/engage-logo.jpg"},
   "com.DogheadSimulations.Rumii":{"name": "rumii","icon":"vr-apps/icons/rumii_logo1.png"},
   "com.drbeef.doomgvr":{"name": "DoomGVR","icon":"vr-games/icons/splash.png"},
   "com.drbeef.lambda1vr":{"name": "Lambda1VR","icon":"vr-games/icons/logo_sqr.png"},
