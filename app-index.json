@@ -26,6 +26,7 @@
   "com.orbusvr.OrbusVR":{"name": "Orbus VR","icon":"app-index-icons/orbusvr.png"},
   "com.onehamsa.RNXQ":{"name": "Racket NX","icon":"app-index-icons/racketnx.png"},
   "com.mixedrealms.sairentovruntethered":{"name": "Sairento VR Untethered","icon":"app-index-icons/sairentovruntethered.png"},
+  "com.Armature.SportsScrambleDemo":{"name": "Sports Scramble Demo","icon":"app-index-icons/sportsscramble.png"},
   "com.Armature.SportsScramble":{"name": "Sports Scramble","icon":"app-index-icons/sportsscramble.png"},
   "unity.SUPERHOT_Team.SUPERHOT_VR_QA":{"name": "Superhot","icon":"app-index-icons/superhot.png"},
   "co.yomune.gargantua":{"name": "Swords of Gargantua","icon":"app-index-icons/swordsofgargantua.png"},
