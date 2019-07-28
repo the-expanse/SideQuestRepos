@@ -1,6 +1,6 @@
 {
   "com.AgainstGravity.RecRoom":{"name": "RecRoom","icon":"app-index-icons/recroom.jpg"},
-  "VirtualDesktop.Android":{"name": "Virtual Desktop","icon":"vr-apps/icons/VirtualDesktop.png"},
+  "VirtualDesktop.Android":{ "name": "Virtual Desktop","icon":"vr-apps/icons/VirtualDesktop.png"},
   "com.spliced.magicalforest":{"name": "Camp Magic","icon":"vr-games/icons/magic.png"},
   "com.vrchat.oculus.quest":{"name": "VR Chat","icon":"app-index-icons/vrchat.png"},
   "app.theexpanse.app":{"name": "The Expanse VR","icon":"vr-games/icons/logo.png"},
