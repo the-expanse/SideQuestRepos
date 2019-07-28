@@ -1,6 +1,7 @@
 {
   "com.AgainstGravity.RecRoom":{"name": "RecRoom","icon":"app-index-icons/recroom.jpg"},
-  "com.altvr.AltspaceVR_Client":{"name": "RecRoom","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
+  "com.altvr.AltspaceVR_Client":{"name": "AltspaceVR","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
+  "com.altvr.AltspaceVR_Quest":{"name": "AltspaceVR","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
   "com.beatgames.beatsaber":{"name": "Beat Saber","icon":"app-index-icons/beat-saber.jpg"},
   "com.beatgames.beatsaber.demo":{"name": "Beat Saber Demo","icon":"app-index-icons/beat-saber.jpg"},
   "com.emulamer.beaton": {"name": "BeatOn", "icon": "app-index-icons/beaton.png"},
