@@ -1,5 +1,6 @@
 {
   "com.AgainstGravity.RecRoom":{"name": "RecRoom","icon":"app-index-icons/recroom.jpg"},
+  "app.theexpanse.app":{"name": "The Expanse VR","icon":"vr-games/icons/logo.png"},
   "com.altvr.AltspaceVR_Client":{"name": "AltspaceVR","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
   "com.altvr.AltspaceVR_Quest":{"name": "AltspaceVR","icon":"vr-games/icons/AltspaceVR-Women-In-VR-Meet-up.png"},
   "com.beatgames.beatsaber":{"name": "Beat Saber","icon":"app-index-icons/beat-saber.jpg"},
