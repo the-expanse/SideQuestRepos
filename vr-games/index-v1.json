@@ -870,7 +870,7 @@
         "com.altvr.AltspaceVR_Client": [  
             {
                 "added": 1502257678527,
-                "apkName": "https://cdn.glitch.com/a00c6725-31d3-4dbe-b74c-c7fac4f360cf%2FAltspaceVR-3.2.10.apk",
+                "apkName": "http://altvr.com/quest",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
