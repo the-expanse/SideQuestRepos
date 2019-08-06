@@ -250,7 +250,7 @@
         "VirtualDesktop.Android": [
             {
                 "added": 1560440707917,
-                "apkName": "https://download.vrdesktop.net/files/VirtualDesktop.Android.apk",
+                "apkName": "https://github.com/guygodin/VirtualDesktop/releases/download/v1.5.2/VirtualDesktop.Android.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
