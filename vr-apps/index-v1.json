@@ -250,7 +250,7 @@
         "VirtualDesktop.Android": [
             {
                 "added": 1560440707917,
-                "apkName": "https://github.com/guygodin/VirtualDesktop/releases/download/v1.6.3/VirtualDesktop.Android.apk",
+                "apkName": "https://github.com/guygodin/VirtualDesktop/releases/download/v1.8.0/VirtualDesktop.Android.apk",
                 "hash": "",
                 "hashType": "sha256",
                 "minSdkVersion": "16",
@@ -263,7 +263,7 @@
                 "srcname": "",
                 "targetSdkVersion": "22",
                 "versionCode": 2,
-                "versionName": "1.6.3",
+                "versionName": "1.8.0",
                 "uses-permission": [
                     [
                         "No permissions Listed...",
