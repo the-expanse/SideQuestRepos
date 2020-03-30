@@ -85,5 +85,6 @@
   "com.GreenerGames.QuestTreks":{"name": "Nature Treks VR","icon":"app-index-icons/naturetreksvr.png"},
   "com.MyDearest.ChronosQuest":{"name": "Tokyo Chronos","icon":"app-index-icons/tokyochronos.png"},
   "com.GearboxSoftware.Hawthorn":{"name": "Penn & Teller VR: F U, U, U & U","icon":"app-index-icons/pennteller.png"},
-  "gg.trs.grappa_demo":{"name": "Journey of the Gods DEMO","icon":"app-index-icons/journeyofthegods.png"}
+  "gg.trs.grappa_demo":{"name": "Journey of the Gods DEMO","icon":"app-index-icons/journeyofthegods.png"},
+  "com.weloveoculus.BMBF":{"name": "BMBF","icon":"app-index-icons/BMBF.png"}
 }
