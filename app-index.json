@@ -1,6 +1,10 @@
 {
   "Immersed.quest":{"name": "Immersed","icon":"app-index-icons/immersed.png"},
   "de.erthu.advr":{"name": "Ancient Dungeon","icon":"app-index-icons/ancient-dungeon.jpeg"},
+  "com.discord":{"name": "Discord","icon":"app-index-icons/discord.jpeg"},
+  "app.Anduh.UrdsVR":{"name": "Urds VR","icon":"app-index-icons/UrdsVR.jpg"},
+  "app.Anduh.UrdsVRCheeki":{"name": "Urds VR - Cheeki Breeki Edition","icon":"app-index-icons/UrdsVR.jpg"},
+  "app.AnduhOgg.OccultXR":{"name": "Occult Simulator","icon":"app-index-icons/OccultXR.png"},
   "com.fieldofvision.nebulanemesis":{"name": "Nebula Nemesis","icon":"app-index-icons/nebula-nemesis.png"},
   "com.curiousvr.homespace":{"name": "Custom Home Mapper","icon":"app-index-icons/customhomemapper.webp"},
   "com.VirtualAge.GladiusQuest":{"name": "Gladius","icon":"app-index-icons/gladius.png"},
