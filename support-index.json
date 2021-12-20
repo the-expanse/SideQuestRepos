@@ -1,1 +1,4 @@
-[]
+[
+{"name" : "test", "message":"test message"},
+{"name" : "test2", "message":"test message 2"}
+]
