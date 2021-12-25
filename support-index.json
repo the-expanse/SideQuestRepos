@@ -1,4 +1,4 @@
 [
-{"name" : "test", "message":"test message"},
-{"name" : "test2", "message":"test message 2"}
+{"name" : "Setup & Download", "message":"Hey there! Sorry you are having trouble, it can be frustrating when things dont work right. Try to follow the [setup steps](https://sdq.st/setup) again to make sure you have completed them all correctly. You may also find luck in this driver tutorial for windows users - https://sdq.st/drivers. Please note Windows 7, 8 and 11 are not supported, 32bit windows is not supported on any version and chromebooks are not supported."},
+{"name" : "Not SideQuest Support", "message":"Hi! Sometimes games and apps on SideQuest are challenging, this can be for a few reasons. Either they are still in development or they may be aimed at more advanced users. It's best to reach out to the developer of the game directly to ask any game related questions, you can find links to social media and discord on their game page. If you are struggling with some technical process you can always ask a friend or family member for help. We want this support community to be used just for support related to SideQuest itself so we cant offer much more help at this stage im afraid. I hope you get sorted soon!"}
 ]
