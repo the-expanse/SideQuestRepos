@@ -52,6 +52,10 @@
   "message" : "Hey there! \n\nThanks for reaching out. This problem is caused by something preventing ADB from running. Try uninstalling SideQuest and when it asks to remove app data select yes. Then install the latest version from [here](https://sdq.st/download) ( scroll down for the Advanced Installer ). If you are still having problems there are some other things to check, your antivirus might be blocking things. Check if it has a Vault or Quarantine or similar and look for an entry called ADB.exe and remove it. You can also disable your antivirus temporarily to see if the problem is resolved. If you still have issues then you might want to try another computer or try our Android app on Google play. \n\nGodspeed traveler!"
 },
 {
+  "name" : "Couldn't replicate (I'll try to replicate that optional PART 2)", 
+  "message" : "Okay, so I've run some tests and couldn't replicate the issue you're having.\n\nTry restarting your Quest or even factory resetting it.\n\nWe'll keep an eye on it but we've had no other reports of this happening so far.\n\nBest of luck on your journey traveller!"
+},
+{
   "name" : "I'll try to replicate that", 
   "message" : "Hello there,\n\nI'm going to see if I can test that and reproduce it on my end. If I can't then we'll keep an eye out for more reports.\n\nBe back soon traveller!"
 }
