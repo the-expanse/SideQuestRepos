@@ -21,7 +21,7 @@
 },
 {
   "name" : "Not Authorized", 
-  "message":"Hello there,\n![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)\n\nIt might be worth restarting your headset, also disabling and re-enabling dev mode.\n\nYou may also have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIn some cases users have had to re-verify their developer account too ( by adding a credit card rather than a phone number ). In some cases toggling dev mode and factory resetting has also helped.\n\nIf possible, try using another PC from a friend or family member too and try the SideQuest app from the play store on Android.\n\nIt might be worth reaching out to oculus support too - https://oculus.com/support. Godspeed traveler!"
+  "message":"Hello there,\n\nIt might be worth restarting your headset, also disabling and re-enabling dev mode.\n\nYou may also have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIn some cases users have had to re-verify their developer account too ( by adding a credit card rather than a phone number ). In some cases toggling dev mode and factory resetting has also helped.\n\nIf possible, try using another PC from a friend or family member too and try the SideQuest app from the play store on Android.\n\nIt might be worth reaching out to oculus support too - https://oculus.com/support. Godspeed traveler!"
 },
 {
   "name" : "Premature end of stream, needed 1 more bytes", 
@@ -37,11 +37,11 @@
 },
 {
   "name" : "Beat Saber Mods", 
-  "message":"Hey there! \n\nWe dont have the best advice for you on that but we can get you to the right place! Check out https://discord.gg/beatsabermods to get help and support there. God speed traveller!"
+  "message":"Hey there! \n\nWe don't have the best advice for you on that but we can get you to the right place! Check out https://discord.gg/beatsabermods to get help and support there. God speed traveller!"
 },
 {
   "name" : "Chromebook Support", 
-  "message":"Hey there! \n\nWe wish we could support chromebooks but its simply not possible - unfortunately its an issue on the chromebook end. God speed traveller!"
+  "message":"Hey there! \n\nWe wish we could support chromebooks but it's simply not possible - unfortunately it's an issue on the chromebook end. God speed traveller!"
 },
 {
   "name" : "Advanced Installer", 
@@ -50,5 +50,9 @@
 {
   "name" : "Connecting...", 
   "message" : "Hey there! \n\nThanks for reaching out. This problem is caused by something preventing ADB from running. Try uninstalling SideQuest and when it asks to remove app data select yes. Then install the latest version from [here](https://sdq.st/download) ( scroll down for the Advanced Installer ). If you are still having problems there are some other things to check, your antivirus might be blocking things. Check if it has a Vault or Quarantine or similar and look for an entry called ADB.exe and remove it. You can also disable your antivirus temporarily to see if the problem is resolved. If you still have issues then you might want to try another computer or try our Android app on Google play. \n\nGodspeed traveler!"
+},
+{
+  "name" : "I'll try to replicate that", 
+  "message" : "Hello there,\n\nI'm going to see if I can test that and reproduce it on my end. If I can't then we'll keep an eye out for more reports.\n\nBe back soon traveller!"
 }
 ]
