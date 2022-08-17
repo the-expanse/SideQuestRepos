@@ -1,11 +1,11 @@
 [
 {
-  "name" : "Setup & Download", 
+  "name" : "USB Problems", 
   "message":"Hello there,\n\nSounds like you may have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIf you’re able to get a USB connected even for just a moment, use the ‘Enable wireless mode’ in the SideQuest app.\n\nI would recommend using the easy installer next time you find a working cable and put Sidequest straight onto the headset.\n\nI hope this sorts your problem out. Let us know if it works for you!\n\nGood luck traveler!"
 },
 {
   "name" : "Not SideQuest Support", 
-  "message":"Hi traveller! \n\nSometimes games and apps on SideQuest are challenging, this can be for a few reasons. Either they are still in development or they may be aimed at more advanced users. It's best to reach out to the developer of the game directly to ask any game related questions, you can find links to social media and discord on their game page. If you are struggling with some technical process you can always ask a friend or family member for help. We want this support community to be used just for support related to SideQuest itself so we cant offer much more help at this stage im afraid. I hope you get sorted soon!"
+  "message":"Hi traveller! \n\nSometimes games and apps on SideQuest are challenging, this can be for a few reasons. Either they are still in development or they may be aimed at more advanced users. It's best to reach out to the developer of the game directly to ask any game related questions, you can find links to social media and discord on their game page on the right. If you are struggling with some technical process you can always ask a friend or family member for help. We want this support community to be used just for support related to SideQuest itself so we cant offer much more help at this stage im afraid. I hope you get sorted soon!"
 },
 {
   "name" : "Oculus Support", 
@@ -13,7 +13,7 @@
 },
 {
   "name" : "No Mobile App APK Install", 
-  "message":"Hey there! \n\nI realise you want to be able to install APK files on the go but this feature was omitted on purpose. We dont want SideQuest to be used for piracy. This feature in our desktop app got abused pretty bad. We decided to omit this feature on our mobile app to avoid us enabling piracy on mobile with SideQuest. You can use our desktop app, or use an app caleld bugjaeger on android. Best of luck traveller!"
+  "message":"Hey there!\n\nI realise you want to be able to install APK files on the go but this feature was omitted on purpose. We dont want SideQuest to be used for piracy. This feature in our desktop app got abused pretty bad. We decided to omit this feature on our mobile app to avoid us enabling piracy on mobile with SideQuest. You can use our desktop app, or use an app caleld bugjaeger on android. Best of luck traveller!"
 },
 {
   "name" : "No Piracy", 
@@ -29,7 +29,7 @@
 },
 {
   "name" : "INSTALL_FAILED_INSUFFICIENT_STORAGE", 
-  "message":"Hey there! \n\nThis error - INSTALL_FAILED_INSUFFICIENT_STORAGE - measn your headset storage space is low. Try uninstalling some apps or games. God speed traveller!"
+  "message":"Hey there! \n\nThis error - INSTALL_FAILED_INSUFFICIENT_STORAGE - means your headset storage space is low. Try uninstalling some apps or games. God speed traveller!"
 },
 {
   "name" : "INSTALL_FAILED_VERSION_DOWNGRADE", 
@@ -44,16 +44,8 @@
   "message":"Hey there! \n\nWe wish we could support chromebooks but its simply not possible - unfortunately its an issue on the chromebook end. God speed traveller!"
 },
 {
-  "name" : "Windows 11", 
-  "message":"Hey there! \n\nThis is a known isue. SideQuest actually supports Windows 11 mostly but the real issue is that the Windows 11 drivers have not been provided by Meta. You can request more from Oculus support over at https://oculus.com/support. \n\nGod speed traveller! "
-},
-{
-  "name" : "Oculus Support", 
-  "message":"Hey there! \n\nThanks for reaching out. On first look it seems that issue might be related to the service Oculus provides and not something we can help with directly. We will circle back with more info if we have it but in the mean time it might be worth reaching out to oculus support - https://oculus.com/support. God speed traveller!"
-},
-{
   "name" : "Advanced Installer", 
-  "message" : "Hey there! \n\nThanks for reaching out. If you go to the download page and scroll down you will find the Advanced Installer, grab that instead.\n\nhttps://sdq.st/download\n\nGodspeed traveler!"
+  "message" : "Hey there! \n\nThanks for reaching out. If you go to the download page and you will find the Advanced Installer on the right, grab that instead.\n\nhttps://sdq.st/download\n\nGodspeed traveler!"
 },
 {
   "name" : "Connecting...", 
