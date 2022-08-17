@@ -20,8 +20,8 @@
   "message":"Hello traveller! \n\nThanks for reaching out. On first look it seems that you might be trying to use SideQuest for piracy. We dont support that for obvious reasons. If you want free games we have tonnes of giveaways running all the time, check our twitter and discord for free stuff. Stay safe on your journey!"
 },
 {
-  "name" : "Enable USB Dialog", 
-  "message":"Hey there! \n\nThanks for reaching out. In the headset settings under System > Developer > Enable USB Dialog you can re-enable the USB dialog if it was accidentally dismissed. In some cases users have had to re-verify their developer account too ( by adding a credit card rather than a phone number ). In some cases toggling dev mode and factory resetting has also helped. These solutions may not be required but unfortunately Dev Mode and ADB can come with quirks sometimes but we have seen a lot of workarounds too. It might be worth reaching out to oculus support too - https://oculus.com/support. God speed traveller!"
+  "name" : "Not Authorized", 
+  "message":"Hello there,\n![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)\n\nIt might be worth restarting your headset, also disabling and re-enabling dev mode.\n\nYou may also have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIn some cases users have had to re-verify their developer account too ( by adding a credit card rather than a phone number ). In some cases toggling dev mode and factory resetting has also helped.\n\nIf possible, try using another PC from a friend or family member too and try the SideQuest app from the play store on Android.\n\nIt might be worth reaching out to oculus support too - https://oculus.com/support. Godspeed traveler!"
 },
 {
   "name" : "Premature end of stream, needed 1 more bytes", 
