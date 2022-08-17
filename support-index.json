@@ -21,7 +21,7 @@
 },
 {
   "name" : "Not Authorized", 
-  "message":"Hello there,\n![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)\n\nSounds like you may have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIf you’re able to get a USB connected even for just a moment, use the ‘Enable wireless mode’ in the SideQuest app.\n\nI would recommend using the easy installer next time you find a working cable and put Sidequest straight onto the headset.\n\nI hope this sorts your problem out. Let us know if it works for you!\n\nGood luck traveler!"
+  "message":"Hello there,\n![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)\n\nIt might be worth restarting your headset, also disabling and re-enabling dev mode.\n\nYou may also have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIn some cases users have had to re-verify their developer account too ( by adding a credit card rather than a phone number ). In some cases toggling dev mode and factory resetting has also helped.\n\nIf possible, try using another PC from a friend or family member too and try the SideQuest app from the play store on Android.\n\nIt might be worth reaching out to oculus support too - https://oculus.com/support. Godspeed traveler!"
 },
 {
   "name" : "Premature end of stream, needed 1 more bytes", 
