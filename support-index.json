@@ -44,6 +44,10 @@
   "message":"Hey there! \n\nWe wish we could support chromebooks but it's simply not possible - unfortunately it's an issue on the chromebook end. God speed traveller!"
 },
 {
+  "name" : "Screen copy Mac", 
+  "message" : "Hey there!\n\nSideQuest uses software called scrcpy ( Screen Copy ) for streaming. It is not something that is included in SideQuest on mac for a number of reasons but it is possible to use scrcpy on mac. Check out this free software that also uses scrcpy and supports Mac: https://guiscrcpy.srev.in/ \n\nBest of luck traveller!"
+},
+{
   "name" : "Advanced Installer", 
   "message" : "Hey there! \n\nThanks for reaching out. If you go to the download page and you will find the Advanced Installer on the right, grab that instead.\n\nhttps://sdq.st/download\n\nGodspeed traveler!"
 },
