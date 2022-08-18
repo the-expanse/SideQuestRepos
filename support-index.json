@@ -4,6 +4,10 @@
   "message":"Hello there,\n\nSounds like you may have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIf you’re able to get a USB connected even for just a moment, use the ‘Enable wireless mode’ in the SideQuest app.\n\nI would recommend using the easy installer next time you find a working cable and put Sidequest straight onto the headset.\n\nI hope this sorts your problem out. Let us know if it works for you!\n\nGood luck traveler!"
 },
 {
+  "name" : "Unknown Sources", 
+  "message" : "Hey there!\n\nInside your headset on the home screen you'll see a button on the right with a 3x3 sqaure grid inside it labeled 'App Libary', click that and go to the top right of the new window that pops up and you'll see 'All', click that and select 'Unknown Sources' at the bottom of the drop-down list.\n\n![](https://i.imgur.com/dfzejxb.png)\n\nNow you'll see all the games you've installed from SideQuest and select them to start playing!\n\nI hope this helps you on your journey traveller!"
+},
+{
   "name" : "Not SideQuest Support", 
   "message":"Hi traveller! \n\nSometimes games and apps on SideQuest are challenging, this can be for a few reasons. Either they are still in development or they may be aimed at more advanced users. It's best to reach out to the developer of the game directly to ask any game related questions, you can find links to social media and discord on their game page on the right. If you are struggling with some technical process you can always ask a friend or family member for help. We want this support community to be used just for support related to SideQuest itself so we cant offer much more help at this stage im afraid. I hope you get sorted soon!"
 },
