@@ -48,6 +48,10 @@
   "message":"Hey there! \n\nWe wish we could support chromebooks but it's simply not possible - unfortunately it's an issue on the chromebook end. God speed traveller!"
 },
 {
+  "name" : "Linux Support", 
+  "message":"Hey!\n\nWe have limited support options available for Linux, since there are so many distributions and sometimes additional software and configuration is needed.\n\nNormally you can just extract the tarball and run the `./sidequest` or `./sidequestlite` depending on which version you have. The app is based on electron, and is open source so Linux users can also compile the app from source at https://github.com/SideQuestVR/SideQuest\n\nI hope that helps!"
+},
+{
   "name" : "Screen copy Mac", 
   "message" : "Hey there!\n\nSideQuest uses software called scrcpy ( Screen Copy ) for streaming. It is not something that is included in SideQuest on mac for a number of reasons but it is possible to use scrcpy on mac. Check out this free software that also uses scrcpy and supports Mac: https://guiscrcpy.srev.in/ \n\nBest of luck traveller!"
 },
