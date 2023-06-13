@@ -1,11 +1,11 @@
 [
 {
   "name" : "Parsing issue", 
-  "message":"Hello there,\n\nIf you've updated your Quest, the game might not be compatible with the new API implemented by Meta—this requires the game developer to release an update. Alternatively, if your Quest OS is older and the game has been updated to the new API, you'll need to update your Quest."
+  "message":"Hello there,\n\nIf you've updated your Quest, the game might not be compatible with the new API implemented by Meta—this requires the game developer to release an update. Alternatively, if your Quest OS is older and the game has been updated to the new API, you'll need to update your Quest.\n\n Godspeed traveller"
 },
 {
   "name" : "ScrCpy2 Audio routing", 
-  "message":"Hello there,\n\nBy default, ScrCpy2—the tool used for streaming—routes audio out of the box. While there's no in-app method to stop this, you can learn how to disable audio rerouting by visiting the ScrCpy2 GitHub page. Here's the [link](https://github.com/Genymobile/scrcpy/blob/master/doc/audio.md) for more information. \n\n "
+  "message":"Hello there,\n\nBy default, ScrCpy2—the tool used for streaming—routes audio out of the box. While there's no in-app method to stop this, you can learn how to disable audio rerouting by visiting the ScrCpy2 GitHub page. Here's the [link](https://github.com/Genymobile/scrcpy/blob/master/doc/audio.md) for more information.\n\n Godspeed traveller "
 },
 {
   "name" : "USB Problems", 
