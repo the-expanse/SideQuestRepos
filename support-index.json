@@ -1,35 +1,47 @@
 [
 {
-  "name" : "USB Problems", 
-  "message":"Hello there,\n\nIt sounds like you may have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also, try using different USB ports and flipping the type C end around 180 degrees.\n\nIf you’re able to get a USB connection even for just a moment, use the ‘Enable wireless mode’ in the SideQuest app.\n\nI would recommend using the easy installer next time you find a working cable and put Sidequest straight onto the headset.\n\nI hope this sorts your problem out. Let us know if it works for you!\n\nGood luck traveller!"
+  "name" : "Parsing issue", 
+  "message":"Hello there,\n\nIf you've updated your Quest, the game might not be compatible with the new API implemented by Meta—this requires the game developer to release an update. Alternatively, if your Quest OS is older and the game has been updated to the new API, you'll need to update your Quest."
 },
 {
-  "name" : "Unknown Sources", 
-  "message" : "Hey there!\n\nInside your headset, on the home screen, you'll see a button on the right with a 3x3 square grid inside it labelled 'App Libary', click that and go to the top right of the new window that pops up and you'll see 'All', click that and select 'Unknown Sources' at the bottom of the drop-down list.\n\n![](https://i.imgur.com/dfzejxb.png)\n\nNow you'll see all the games you've installed from SideQuest and then be able to select them to start playing!\n\nI hope this helps you on your journey traveller!"
+  "name" : "ScrCpy2 Audio routing", 
+  "message":"Hello there,\n\nBy default, ScrCpy2—the tool used for streaming—routes audio out of the box. While there's no in-app method to stop this, you can learn how to disable audio rerouting by visiting the ScrCpy2 GitHub page. Here's the [link](https://github.com/Genymobile/scrcpy/blob/master/doc/audio.md) for more information. \n\n "
+},
+{
+  "name" : "USB Problems", 
+  "message":"Hello there,\n\nYou might be dealing with a faulty USB cable. Test with other cables you have on hand, or borrow one if possible, before considering a new purchase. Don't forget to experiment with different USB ports and rotating the Type-C end 180 degrees. \n\nShould you momentarily establish a USB connection, switch to 'Enable wireless mode' in the SideQuest app.\n\nFor future convenience, consider using the easy installer to directly install SideQuest on your headset once you find a working cable.\n\nWe hope this resolves your issue. Keep us updated on your progress!\n\nBest of luck on your journey, traveller!"
+},
+{
+  "name" : "Unknown Sources v55", 
+  "message" : "Hey there!\n\nOn the home screen inside your headset, look for a button on the right with a 3x3 square grid. This is the 'App Library' button. Click it, then click on the search bar. A filter icon should show up next to the search box. Click this icon and at the bottom of the drop-down list that appears, pick 'Unknown Sources'.\n\nThis will let you see all the games you've installed from SideQuest. You can then pick a game and start playing!\n\nI hope this helps! Safe travels on your journey."
+},
+{
+  "name" : "Unknown Sources v54", 
+  "message" : "Hey there!\n\nOn the home screen in your headset, find the 'App Library' button on the right, which has a 3x3 square grid on it. After clicking this, a new window will open. At the top right of this window, you'll see a filter icon. Click it and choose 'Unknown Sources' at the end of the drop-down list that appears.\n\nThis will display all the games you've installed from SideQuest. Now, you can choose any game and start playing!\n\nI hope this is helpful! Enjoy your journey, traveller!"
 },
 {
   "name" : "Not SideQuest Support", 
-  "message":"Hi traveller! \n\nSometimes games and apps on SideQuest are challenging, this can be for a few reasons. Either they are still in development or they may be aimed at more advanced users. It's best to reach out to the developer of the game directly to ask any game-related questions, you can find links to social media and discord on their game page on the right. If you are struggling with some technical process you can always ask a friend or family member for help. We want this support community to be used just for support related to SideQuest itself so we can't offer much more help at this stage I'm afraid. I hope you get sorted soon!"
+  "message":"Hi traveller! \n\nGames and apps on SideQuest can sometimes be tough to crack. This could be because they're either under development or targeted towards advanced users. For game-specific questions, it's a good idea to reach out directly to the game developer. Links to their social media and Discord can be found on the game's page on the right side.\n\nIf you're grappling with a tricky technical procedure, don't hesitate to ask for help from friends or family. Just remember, this community is focused on supporting SideQuest-related issues, so our capacity to help beyond that is limited. We hope you find the help you need soon!\n\nGodspeed traveller"
 },
 {
-  "name" : "Oculus Support", 
-  "message":"Hey there! \n\nThanks for reaching out. On first look, it seems that the issue might be related to the service Oculus provides and not something we can help with directly. We will circle back with more info if we have it but in the meantime, it might be worth reaching out to oculus support - https://oculus.com/support. God speed traveller!"
+  "name" : "Meta Support refer", 
+  "message":"Hey there! \n\nThank you for reaching out. At first glance, it appears that the issue may be related to the services provided by Meta, rather than something we can directly assist with. We'll loop back if we gather more information. Meanwhile, you might find it helpful to contact [Meta Quest Support](https://www.meta.com/help/support/). Safe travels!"
 },
 {
-  "name" : "No Mobile App APK Install", 
-  "message":"Hey there!\n\nI realise you want to be able to install APK files on the go but this feature was omitted on purpose. We don't want SideQuest to be used for piracy. This feature in our desktop app got abused pretty bad. We decided to omit this feature on our mobile app to avoid us enabling piracy on mobile with SideQuest. You can use our desktop app or use an app called Bugjaeger on android. Best of luck traveller!"
+  "name" : "APK install on Mobile", 
+  "message":"Hey there!\n\nWe understand your desire to install APK files on the move. However, this feature was intentionally excluded to prevent SideQuest's misuse for piracy. In the past, this feature in our desktop app was significantly abused. To prevent similar misuse on mobile, we chose not to include this functionality in our mobile app. You can continue using our desktop app or consider the Bugjaeger app on Android. Best of luck on your journey, traveler!"
 },
 {
-  "name" : "No Piracy", 
-  "message":"Hello traveller! \n\nThanks for reaching out. On first look, it seems that you might be trying to use SideQuest for piracy. We don't support that for obvious reasons. If you want free games we have tonnes of giveaways running all the time, check our Twitter and discord for free stuff. Stay safe on your journey!"
+  "name" : "Piracy", 
+  "message":"Hello traveller! \n\nThank you for contacting us. It seems you might be trying to use SideQuest for piracy, which we firmly oppose. We host numerous giveaways if you're interested in free games—keep an eye on our Twitter and Discord for these opportunities.\n\nBest wishes for your adventure!"
 },
 {
   "name" : "Not Authorized", 
-  "message":"Hello there,\n\nIt might be worth restarting your headset, also disabling and re-enabling dev mode.\n\nYou may also have a faulty USB cable. Try a few spare cables you may have or if possible, borrow one just to be sure before potentially buying a new one. Also try using different USB ports as well as flipping the type C end around 180 degrees.\n\nIn some cases users have had to re-verify their developer account too ( by adding a credit card rather than a phone number ). In some cases toggling dev mode and factory resetting has also helped.\n\nIf possible, try using another PC from a friend or family member too and try the SideQuest app from the play store on Android.\n\nIt might be worth reaching out to oculus support too - https://oculus.com/support. Godspeed traveler!"
+  "message":"Hello there,\n\nTry restarting your headset and switching dev mode off and on.\n\nA defective USB cable could be the culprit. Experiment with other cables you possess or borrow one before purchasing a new one. Try different USB ports and flip the Type-C end 180 degrees.\n\nRe-verifying their developer account (using a credit card instead of a phone number), toggling dev mode, and factory resetting have worked for some users.\n\nIf possible, use another PC or the SideQuest app from the Android play store for testing.\n\nRemember, [Meta Quest Support](https://www.meta.com/help/support/) is there to help.\n\nGodspeed!"
 },
 {
   "name" : "Premature end of stream, needed 1 more bytes", 
-  "message":"Hi traveller! \n\nThanks for reaching out. This can be caused by a few things. The most common is a USB connection problem. Try another USB cable or port if you can, avoid USB3 as it has known issues with ADB ( the underlying connection to your headset ). This can also be caused by a problem with a specific app on SideQuest if it only happens with one app and not all. Let us know! Best of luck, brave traveller!"
+  "message":"Hi traveller! \n\nThanks for reaching out. This problem can arise from several factors. A frequent cause is a USB connection issue. Try using a different USB cable or port if you can, and steer clear of USB3 because of its known ADB compatibility issues, which is the fundamental connection to your headset. The problem might also be tied to a specific app on SideQuest. Let us know if it's only happening with one app. Wishing you luck on your journey, brave traveler!"
 },
 {
   "name" : "INSTALL_FAILED_INSUFFICIENT_STORAGE", 
@@ -37,11 +49,15 @@
 },
 {
   "name" : "INSTALL_FAILED_VERSION_DOWNGRADE", 
-  "message":"Hey there! \n\nThis error - INSTALL_FAILED_VERSION_DOWNGRADE - means the app you want to install is already installed and the installed version is newer than the one you want to install. To work around this uninstall the app first then try again. \n\nYou may need to uninstall it from all accounts on your headset. \n\nIt is recommended that you uninstall it from the desktop SideQuest app if you don't see it in unknown sources. You can do that in the my apps screen on the SideQuest app where you can find the app using its name or package name ( like net.kdt.pojavlaunch for QuestCraft ). Click the cog wheel icon then on uninstall. \n\nGod speed traveller!"
+  "message":"Hey there! \n\nThe error you're encountering—INSTALL_FAILED_VERSION_DOWNGRADE—indicates that the app you're attempting to install already exists on your device, and the installed version is newer. To resolve this, you'll need to uninstall the current app before attempting reinstallation.\n\nRemember to uninstall the app from all accounts on your headset.\n\nIf you can't locate the app in 'Unknown Sources', it's suggested to uninstall it from the desktop SideQuest app. Navigate to the 'My Apps' screen on SideQuest, locate the app using its name or package name (e.g., net.kdt.pojavlaunch for QuestCraft), click on the cogwheel icon, and then select 'Uninstall'. \n\nGod speed traveller!"
+},
+{
+  "name" : "QuestCraft Issues", 
+  "message":"Hey there! \n\nWhile we might not have the ideal advice for you on this matter, we can certainly guide you to the right resource! For assistance and support, consider visiting [Quest Craft Discord](https://discord.gg/questcraft). Godspeed traveller!"
 },
 {
   "name" : "Beat Saber Mods", 
-  "message":"Hey there! \n\nWe don't have the best advice for you on that but we can get you to the right place! Check out https://discord.gg/beatsabermods to get help and support there. God speed traveller!"
+  "message":"Hey there! \n\nWhile we might not have the ideal advice for you on this matter, we can certainly guide you to the right resource! For assistance and support, consider visiting [Beat Saber Mods Discord](https://discord.gg/beatsabermods). Godspeed traveller!"
 },
 {
   "name" : "Chromebook Support", 
@@ -49,11 +65,11 @@
 },
 {
   "name" : "Linux Support", 
-  "message":"Hey!\n\nWe have limited support options available for Linux since there are so many distributions and sometimes additional software and configuration are needed.\n\nNormally you can just extract the tarball and run the `./sidequest` or `./sidequestlite` depending on which version you have. The app is based on electron, and is open source so Linux users can also compile the app from the source at https://github.com/SideQuestVR/SideQuest\n\nI hope that helps!"
+  "message":"Hey!\n\nSupport for Linux is somewhat limited due to the vast number of distributions and occasional need for additional software or configuration.\n\nTypically, you can extract the tarball and run either `./sidequest` or `./sidequestlite`, depending on your version. The app, built on Electron, is open-source—Linux users can compile it from the source available at [SideQuest's GitHub repository](https://github.com/SideQuestVR/SideQuest).\n\nI hope this information proves helpful!"
 },
 {
   "name" : "Screen copy Mac", 
-  "message" : "Hey there!\n\nSideQuest uses software called scrcpy ( Screen Copy ) for streaming. It is not something that is included in SideQuest on mac for a number of reasons but it is possible to use scrcpy on mac. Check out this free software that also uses scrcpy and supports Mac: https://guiscrcpy.srev.in/ \n\nBest of luck traveller!"
+  "message" : "Hey there!\n\nSideQuest utilizes a software called scrcpy (Screen Copy) for streaming. While not included in the Mac version of SideQuest due to various reasons, it's still possible to use scrcpy on Mac. Check out [guiscrcpy](https://guiscrcpy.srev.in/), a free software that leverages scrcpy and supports Mac. \n\nBest of luck traveller!"
 },
 {
   "name" : "Advanced Installer", 
@@ -61,19 +77,19 @@
 },
 {
   "name" : "Connecting...", 
-  "message" : "Hey there! \n\nThanks for reaching out. This problem is caused by something preventing ADB from running. Try uninstalling SideQuest and when it asks to remove app data select yes. Then install the latest version from [here](https://sdq.st/download) ( scroll down for the Advanced Installer ). If you are still having problems there are some other things to check, your antivirus might be blocking things. Check if it has a Vault or Quarantine or similar and look for an entry called ADB.exe and remove it. You can also disable your antivirus temporarily to see if the problem is resolved. If you still have issues then you might want to try another computer or try our Android app on Google play. \n\nGodspeed traveler!"
+  "message" : "Hey there! \n\nThanks for reaching out. This issue arises when something hinders ADB from running. Attempt uninstalling SideQuest, and when prompted to remove app data, select 'yes'. Then, install the latest version from [here](https://sdq.st/download)—scroll down for the Advanced Installer.\n\nIf you continue to face issues, your antivirus might be blocking ADB. Check its Vault, Quarantine, or similar sections for an entry named 'ADB.exe' and remove it. Temporarily disabling your antivirus can also help identify if it's causing the issue.\n\nShould the problem persist, consider trying on a different computer or using our Android app on Google Play. \n\nGodspeed traveller!"
 },
 {
   "name" : "Downloading...", 
   "message" : "Hello there!\n\nIt seems that while you were downloading, the USB cable may have temporarily disconnected making the download get stuck.\n\nI would recommend reconnecting the Quest to SideQuest via the USB again, then immediately switch to Wi-Fi mode.\n\nAn even easier option is to use the ‘Easy installer’ on the PC to install SideQuest to the headset, or on the mobile app, click the 3 dots in the bottom right corner and go to tools, at the top you’ll see ‘Install SideQuest into your headset’.\n\nhttps://sidequestvr.com/setup-howto\n\nAll the best on your journey, traveller!"
 },
 {
-  "name" : "Couldn't replicate (I'll try to replicate that optional PART 2)", 
-  "message" : "Okay, so I've run some tests and couldn't replicate the issue you're having.\n\nTry restarting your Quest or even factory resetting it.\n\nWe'll keep an eye on it but we've had no other reports of this happening so far.\n\nBest of luck on your journey traveller!"
-},
-{
   "name" : "I'll try to replicate that", 
   "message" : "Hello there,\n\nI'm going to see if I can test that and reproduce it on my end. If I can't then we'll keep an eye out for more reports.\n\nBe back soon traveller!"
+},
+{
+  "name" : "Couldn't replicate (I'll try to replicate that optional PART 2)", 
+  "message" : "Okay, so I've run some tests and couldn't replicate the issue you're having.\n\nTry restarting your Quest or even factory resetting it.\n\nWe'll keep an eye on it but we've had no other reports of this happening so far.\n\nBest of luck on your journey traveller!"
 },
 {
   "name" : "BONELAB mod)", 
